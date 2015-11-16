@@ -323,7 +323,7 @@ void draw() {
   */
   fill(213,213,213);
   textSize(26); 
-  text("ArchiCar Scanner", 10, 30);
+  text("ArchiCar2D", 10, 30);
   
   textSize(12);
   text("Arduino UpTime: " + timestamp + " s", 20, 60);
